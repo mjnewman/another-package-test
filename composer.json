@@ -1,0 +1,15 @@
+{
+    "name": "pomp/another-package-test",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Newman",
+            "email": "mjnewman@pomp.com.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"mjnewman\\AnotherPackageTest\\": "src/"}
+    }
+}
