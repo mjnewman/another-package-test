@@ -4,7 +4,7 @@ namespace mjnewman\AnotherPackageTest;
 
 class Index
 {
-    public $version = '1.0.0';
+    public $version = '2.0.0';
 
     public function greet($greet = 'Hello World')
     {
