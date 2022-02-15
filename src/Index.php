@@ -4,9 +4,9 @@ namespace mjnewman\AnotherPackageTest;
 
 class Index
 {
-    public $version = '3.0.0';
+    public $version = '4.0.0';
 
-    public function greet($greet = 'Hello dev-master')
+    public function greet($greet = 'Hello World')
     {
         return $greet;
     }
