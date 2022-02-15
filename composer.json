@@ -1,8 +1,11 @@
 {
-    "name": "pomp/another-package-test",
+    "name": "mjnewman/another-package-test",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
+    "config": {
+        "discard-changes": true
+    },
     "authors": [
         {
             "name": "Michael Newman",
